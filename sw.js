@@ -11,3 +11,4 @@ self.addEventListener("install", e => {
     );
     console.log("Resources in cache. Done");
 })
+
